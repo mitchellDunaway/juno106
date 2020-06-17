@@ -23,7 +23,7 @@
     "grunt-contrib-sass": "^0.8.1",
     "grunt-contrib-watch": "~0.5.3",
     "grunt-template-jasmine-requirejs": "latest",
-    "load-grunt-tasks": "~1.0.0"
+    "load-grunt-tasks": "~3.5.2"
   },
   "repository": {
     "type": "git",
