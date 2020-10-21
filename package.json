@@ -17,7 +17,7 @@
     "grunt-contrib-cssmin": "^0.12.3",
     "grunt-contrib-handlebars": "^0.10.1",
     "grunt-contrib-jasmine": "latest",
-    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-jshint": "~3.0.0",
     "grunt-contrib-nodeunit": "latest",
     "grunt-contrib-requirejs": "~0.4.1",
     "grunt-contrib-sass": "^0.8.1",
